@@ -1,3 +1,9 @@
+---
+layout: post
+title:  "[TUCTF 2017][Funmail - RE25]"
+date:   2017-12-31 16:31:39 +0700
+categories: writeup re
+---
 # [TUCTF 2017][Funmail - RE25]
 
 >One of our employees has locked himself out of his account. can you help 'john galt' recover his password? And no snooping around his emails you hear.
