@@ -11,10 +11,10 @@ funmail - md5: 2462f28c6d64be1dc5658dc5f7bc06b9
 [funmail](https://tuctf.asciioverflow.com/files/76a9e868d90b7229465aa972b49a8e4c/funmail)
 
 OK. Kiểm tra sơ qua thông tin về file.
-```sh
+{% highlight bash %}
 $file funmail
 funmail: ELF 32-bit LSB shared object, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 2.6.32, BuildID[sha1]=99133c493a1b1bafb6873920626bc37d39ae85a9, not stripped
-```
+{% endhighlight %}
 Không có gì đặc biệt. ```funmail``` thuộc kiểu ELF 32bit
 
 Load thử vào ```ida32``` và kiểm tra hàm main
